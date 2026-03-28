@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahilrehan75" target="blank"><img src="https://img.shields.io/twitter/follow/sahilrehan75?logo=twitter&style=for-the-badge" alt="sahilrehan75" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack to build full websites using MongoDB, Express, React, and Node.js. 😊**
+🌱 I’m currently learning MERN stack to build full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
-- 🎯 What I’m all about **Hi, I'm Sahil, a passionate Full Stack Developer specializing in the MERN stack. With a strong background in both front-end and back-end development, I create dynamic, user-friendly applications that meet both business needs and end-user expectations. My expertise lies in building scalable, efficient solutions using MongoDB, Express.js, React, and Node.js, delivering modern, high-performance web apps.**
+💻 I'm an aspiring PHP Developer with a strong foundation in Core PHP, MySQL, and frontend technologies. I enjoy building dynamic and user-friendly web applications and continuously improving my development skills.
 
 - 🔗 Connect via email: **siddiquisahil735@gmail.com**
 
