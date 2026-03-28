@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilrehan75" target="blank"><img src="https://img.shields.io/twitter/follow/sahilrehan75?logo=twitter&style=for-the-badge" alt="sahilrehan75" /></a> </p>
 
-🌱 I’m currently learning MERN stack to build full-stack web applications using MongoDB, Express.js, React, and Node.js.
+🌱 Currently learning modern web development with a focus on PHP and Laravel.
 
 💻 I'm an aspiring PHP Developer with a strong foundation in Core PHP, MySQL, and frontend technologies. I enjoy building dynamic and user-friendly web applications and continuously improving my development skills.
 
